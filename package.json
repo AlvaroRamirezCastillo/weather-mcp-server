@@ -1,13 +1,13 @@
 {
   "name": "@jinba-ittai/weather-mcp-server",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publishConfig": {
     "access": "public"
   },
   "main": "./build/index.js",
   "type": "module",
   "bin": {
-    "weather": "build/index.js"
+    "weather": "/build/index.js"
   },
   "scripts": {
     "build": "node build.mjs"
