@@ -1,10 +1,10 @@
 {
-  "name": "greeting",
-  "description": "greeting.",
+  "name": "weather",
+  "description": "weather.",
   "functions": [
     {
-      "name": "get_greeting",
-      "description": "Tool to get a greeting.",
+      "name": "get_weather",
+      "description": "Tool to get a weather.",
       "parameters": [
         {
           "name": "query",
